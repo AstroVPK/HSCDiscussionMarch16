@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.18)  24 MAR 2016 01:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.18)  24 MAR 2016 07:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1217,22 +1217,22 @@ Package pdftex.def Info: images/pol3d.jpg used on input line 256.
 File: images/fluctuations.jpg Graphic file (type jpg)
 
 <use images/fluctuations.jpg>
-Package pdftex.def Info: images/fluctuations.jpg used on input line 285.
+Package pdftex.def Info: images/fluctuations.jpg used on input line 287.
 (pdftex.def)             Requested size: 120.44969pt x 80.29979pt.
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 10.0pt on input line 285.
+(Font)              scaled to size 10.0pt on input line 287.
  [5
 
  <./images/fluctuations.jpg>]
-<images/BelloniStella14_KerrOrbits.jpg, id=264, 342.20314pt x 125.76857pt>
+<images/BelloniStella14_KerrOrbits.jpg, id=267, 342.20314pt x 125.76857pt>
 File: images/BelloniStella14_KerrOrbits.jpg Graphic file (type jpg)
 
 <use images/BelloniStella14_KerrOrbits.jpg>
 Package pdftex.def Info: images/BelloniStella14_KerrOrbits.jpg used on input li
-ne 324.
+ne 326.
 (pdftex.def)             Requested size: 188.2123pt x 69.17291pt.
 LaTeX Font Info:    Font shape `T1/ntxrx/m/it' will be
-(Font)              scaled to size 14.4pt on input line 324.
+(Font)              scaled to size 14.4pt on input line 326.
  [6
 
  <./images/BelloniStella14_KerrOrbits.jpg>] <images/BelloniStella14_PDS.jpg, id
@@ -1240,7 +1240,7 @@ LaTeX Font Info:    Font shape `T1/ntxrx/m/it' will be
 File: images/BelloniStella14_PDS.jpg Graphic file (type jpg)
 
 <use images/BelloniStella14_PDS.jpg>
-Package pdftex.def Info: images/BelloniStella14_PDS.jpg used on input line 338.
+Package pdftex.def Info: images/BelloniStella14_PDS.jpg used on input line 340.
 
 (pdftex.def)             Requested size: 263.97594pt x 158.95886pt.
  [7
@@ -1249,14 +1249,14 @@ Package pdftex.def Info: images/BelloniStella14_PDS.jpg used on input line 338.
 <images/Kelly09a.jpg, id=333, 501.875pt x 216.81pt>
 File: images/Kelly09a.jpg Graphic file (type jpg)
  <use images/Kelly09a.jpg>
-Package pdftex.def Info: images/Kelly09a.jpg used on input line 362.
+Package pdftex.def Info: images/Kelly09a.jpg used on input line 364.
 (pdftex.def)             Requested size: 200.74643pt x 86.72246pt.
 
 <images/Kelly09bf.jpg, id=334, 301.125pt x 521.95pt>
 File: images/Kelly09bf.jpg Graphic file (type jpg)
 
 <use images/Kelly09bf.jpg>
-Package pdftex.def Info: images/Kelly09bf.jpg used on input line 362.
+Package pdftex.def Info: images/Kelly09bf.jpg used on input line 364.
 (pdftex.def)             Requested size: 90.33818pt x 156.5862pt.
  [8
 
@@ -1265,16 +1265,16 @@ Package pdftex.def Info: images/Kelly09bf.jpg used on input line 362.
 File: images/RW_Illustration.jpg Graphic file (type jpg)
 
 <use images/RW_Illustration.jpg>
-Package pdftex.def Info: images/RW_Illustration.jpg used on input line 387.
+Package pdftex.def Info: images/RW_Illustration.jpg used on input line 389.
 (pdftex.def)             Requested size: 154.16934pt x 154.53069pt.
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 7.3pt on input line 387.
+(Font)              scaled to size 7.3pt on input line 389.
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 5.5pt on input line 387.
+(Font)              scaled to size 5.5pt on input line 389.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 387.
+(Font)              size <5> substituted on input line 389.
 
 [9
 
@@ -1283,14 +1283,14 @@ LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
 File: images/DRW_Illustration.jpg Graphic file (type jpg)
 
 <use images/DRW_Illustration.jpg>
-Package pdftex.def Info: images/DRW_Illustration.jpg used on input line 424.
+Package pdftex.def Info: images/DRW_Illustration.jpg used on input line 426.
 (pdftex.def)             Requested size: 154.16934pt x 154.41023pt.
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 6.5pt on input line 424.
+(Font)              scaled to size 6.5pt on input line 426.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 424.
+(Font)              size <6> substituted on input line 426.
 
 [10
 
@@ -1298,10 +1298,10 @@ LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
 <images/DRW.jpg, id=430, 1927.2pt x 1927.2pt>
 File: images/DRW.jpg Graphic file (type jpg)
  <use images/DRW.jpg>
-Package pdftex.def Info: images/DRW.jpg used on input line 453.
+Package pdftex.def Info: images/DRW.jpg used on input line 455.
 (pdftex.def)             Requested size: 173.44052pt x 173.44052pt.
 
-Overfull \hbox (2.23073pt too wide) in paragraph at lines 453--453
+Overfull \hbox (2.23073pt too wide) in paragraph at lines 455--455
  [] 
  []
 
@@ -1312,7 +1312,7 @@ Overfull \hbox (2.23073pt too wide) in paragraph at lines 453--453
 File: images/Kepler_PosterMedium.jpeg Graphic file (type jpg)
 
 <use images/Kepler_PosterMedium.jpeg>
-Package pdftex.def Info: images/Kepler_PosterMedium.jpeg used on input line 467
+Package pdftex.def Info: images/Kepler_PosterMedium.jpeg used on input line 469
 .
 (pdftex.def)             Requested size: 221.32631pt x 172.36353pt.
  [12
@@ -1322,10 +1322,10 @@ Package pdftex.def Info: images/Kepler_PosterMedium.jpeg used on input line 467
 File: images/Kepler_Spacecraft.jpg Graphic file (type jpg)
 
 <use images/Kepler_Spacecraft.jpg>
-Package pdftex.def Info: images/Kepler_Spacecraft.jpg used on input line 491.
+Package pdftex.def Info: images/Kepler_Spacecraft.jpg used on input line 493.
 (pdftex.def)             Requested size: 218.25485pt x 189.58783pt.
 
-Overfull \hbox (12.80101pt too wide) in paragraph at lines 491--491
+Overfull \hbox (12.80101pt too wide) in paragraph at lines 493--493
  [] 
  []
 
@@ -1336,7 +1336,7 @@ Overfull \hbox (12.80101pt too wide) in paragraph at lines 491--491
 File: images/Kepler_FOV.jpg Graphic file (type jpg)
 
 <use images/Kepler_FOV.jpg>
-Package pdftex.def Info: images/Kepler_FOV.jpg used on input line 516.
+Package pdftex.def Info: images/Kepler_FOV.jpg used on input line 518.
 (pdftex.def)             Requested size: 130.1965pt x 162.38974pt.
  [14
 
@@ -1346,7 +1346,7 @@ File: images/kplr006932990-1stIncr_3D.jpg Graphic file (type jpg)
 
 <use images/kplr006932990-1stIncr_3D.jpg>
 Package pdftex.def Info: images/kplr006932990-1stIncr_3D.jpg used on input line
- 549.
+ 551.
 (pdftex.def)             Requested size: 179.85901pt x 139.98792pt.
  [15
 
@@ -1355,7 +1355,7 @@ Package pdftex.def Info: images/kplr006932990-1stIncr_3D.jpg used on input line
 File: images/SF_Illustration.jpg Graphic file (type jpg)
 
 <use images/SF_Illustration.jpg>
-Package pdftex.def Info: images/SF_Illustration.jpg used on input line 577.
+Package pdftex.def Info: images/SF_Illustration.jpg used on input line 579.
 (pdftex.def)             Requested size: 154.41023pt x 154.53069pt.
  [16
 
@@ -1363,14 +1363,14 @@ Package pdftex.def Info: images/SF_Illustration.jpg used on input line 577.
 <images/p2fig1.jpg, id=620, 1009.90286pt x 650.43pt>
 File: images/p2fig1.jpg Graphic file (type jpg)
  <use images/p2fig1.jpg>
-Package pdftex.def Info: images/p2fig1.jpg used on input line 604.
+Package pdftex.def Info: images/p2fig1.jpg used on input line 606.
 (pdftex.def)             Requested size: 154.0061pt x 99.18794pt.
 
 <images/p2fig2.jpg, id=621, 1118.37825pt x 699.93495pt>
 File: images/p2fig2.jpg Graphic file (type jpg)
 
 <use images/p2fig2.jpg>
-Package pdftex.def Info: images/p2fig2.jpg used on input line 604.
+Package pdftex.def Info: images/p2fig2.jpg used on input line 606.
 (pdftex.def)             Requested size: 145.39427pt x 90.99474pt.
  [17
 
@@ -1379,7 +1379,7 @@ Package pdftex.def Info: images/p2fig2.jpg used on input line 604.
 File: images/kplr006932990-Q7_LCs.jpg Graphic file (type jpg)
 
 <use images/kplr006932990-Q7_LCs.jpg>
-Package pdftex.def Info: images/kplr006932990-Q7_LCs.jpg used on input line 621
+Package pdftex.def Info: images/kplr006932990-Q7_LCs.jpg used on input line 623
 .
 (pdftex.def)             Requested size: 255.50383pt x 127.7519pt.
  [18
@@ -1388,10 +1388,10 @@ Package pdftex.def Info: images/kplr006932990-Q7_LCs.jpg used on input line 621
 <images/p2fig3.jpg, id=684, 1119.4623pt x 699.93495pt>
 File: images/p2fig3.jpg Graphic file (type jpg)
  <use images/p2fig3.jpg>
-Package pdftex.def Info: images/p2fig3.jpg used on input line 642.
+Package pdftex.def Info: images/p2fig3.jpg used on input line 644.
 (pdftex.def)             Requested size: 223.88849pt x 139.9845pt.
 
-Overfull \hbox (1.31784pt too wide) in paragraph at lines 642--642
+Overfull \hbox (1.31784pt too wide) in paragraph at lines 644--644
  [] 
  []
 
@@ -1401,7 +1401,7 @@ Overfull \hbox (1.31784pt too wide) in paragraph at lines 642--642
 File: images/AllLC.jpg Graphic file (type jpg)
 
 <use images/AllLC.jpg>
-Package pdftex.def Info: images/AllLC.jpg used on input line 662.
+Package pdftex.def Info: images/AllLC.jpg used on input line 664.
 (pdftex.def)             Requested size: 195.1272pt x 195.1272pt.
  [20
 
@@ -1409,7 +1409,7 @@ Package pdftex.def Info: images/AllLC.jpg used on input line 662.
 <images/AllSF.jpg, id=747, 433.62pt x 433.62pt>
 File: images/AllSF.jpg Graphic file (type jpg)
  <use images/AllSF.jpg>
-Package pdftex.def Info: images/AllSF.jpg used on input line 688.
+Package pdftex.def Info: images/AllSF.jpg used on input line 690.
 (pdftex.def)             Requested size: 195.1272pt x 195.1272pt.
  [21
 
@@ -1418,7 +1418,7 @@ Package pdftex.def Info: images/AllSF.jpg used on input line 688.
 File: images/Periodogram.jpg Graphic file (type jpg)
 
 <use images/Periodogram.jpg>
-Package pdftex.def Info: images/Periodogram.jpg used on input line 706.
+Package pdftex.def Info: images/Periodogram.jpg used on input line 708.
 (pdftex.def)             Requested size: 204.82718pt x 135.21304pt.
  [22
 
@@ -1427,15 +1427,15 @@ Package pdftex.def Info: images/Periodogram.jpg used on input line 706.
 File: images/CARMA(3,1)_LC.jpg Graphic file (type jpg)
 
 <use images/CARMA(3,1)_LC.jpg>
-Package pdftex.def Info: images/CARMA(3,1)_LC.jpg used on input line 734.
+Package pdftex.def Info: images/CARMA(3,1)_LC.jpg used on input line 736.
 (pdftex.def)             Requested size: 178.63907pt x 117.68509pt.
 
-Overfull \hbox (7.42928pt too wide) in paragraph at lines 734--734
+Overfull \hbox (7.42928pt too wide) in paragraph at lines 736--736
  [] 
  []
 
 
-Overfull \vbox (5.76782pt too high) detected at line 734
+Overfull \vbox (5.76782pt too high) detected at line 736
  []
 
 [23
@@ -1445,14 +1445,14 @@ Overfull \vbox (5.76782pt too high) detected at line 734
 File: images/CARMA(2,1)_PSD.jpg Graphic file (type jpg)
 
 <use images/CARMA(2,1)_PSD.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_PSD.jpg used on input line 754.
+Package pdftex.def Info: images/CARMA(2,1)_PSD.jpg used on input line 756.
 (pdftex.def)             Requested size: 171.00987pt x 107.94496pt.
 
 <images/CARMA(2,1)_LC.jpg, id=846, 4281.9975pt x 2769.34625pt>
 File: images/CARMA(2,1)_LC.jpg Graphic file (type jpg)
 
 <use images/CARMA(2,1)_LC.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_LC.jpg used on input line 754.
+Package pdftex.def Info: images/CARMA(2,1)_LC.jpg used on input line 756.
 (pdftex.def)             Requested size: 171.25073pt x 110.75497pt.
  [24
 
@@ -1461,10 +1461,10 @@ _PSD.jpg, id=876, 4512.86pt x 2799.45876pt>
 File: images/CARMA(5,1)_PSD.jpg Graphic file (type jpg)
 
 <use images/CARMA(5,1)_PSD.jpg>
-Package pdftex.def Info: images/CARMA(5,1)_PSD.jpg used on input line 774.
+Package pdftex.def Info: images/CARMA(5,1)_PSD.jpg used on input line 776.
 (pdftex.def)             Requested size: 180.48366pt x 111.95927pt.
 
-Overfull \hbox (9.27386pt too wide) in paragraph at lines 774--774
+Overfull \hbox (9.27386pt too wide) in paragraph at lines 776--776
  [] 
  []
 
@@ -1472,23 +1472,23 @@ Overfull \hbox (9.27386pt too wide) in paragraph at lines 774--774
 File: images/CARMA(5,1)_LC.jpg Graphic file (type jpg)
 
 <use images/CARMA(5,1)_LC.jpg>
-Package pdftex.def Info: images/CARMA(5,1)_LC.jpg used on input line 774.
+Package pdftex.def Info: images/CARMA(5,1)_LC.jpg used on input line 776.
 (pdftex.def)             Requested size: 171.25073pt x 110.75497pt.
  [25
 
  <./images/CARMA(5,1)_PSD.jpg> <./images/CARMA(5,1)_LC.jpg>]
 LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
-(Font)              scaled to size 10.95pt on input line 813.
+(Font)              scaled to size 10.95pt on input line 815.
 LaTeX Font Info:    Font shape `T1/ntxrx/bx/it' will be
-(Font)              scaled to size 10.95pt on input line 813.
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 813.
+(Font)              scaled to size 10.95pt on input line 815.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 815.
  (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/qhv/b/n' tried instead on input line 813.
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 815.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.85492pt on input line 813.
+(Font)              scaled to size 9.85492pt on input line 815.
  [26
 
 ]
@@ -1496,7 +1496,7 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 File: images/Fig0_Pt5_Step4.jpg Graphic file (type jpg)
 
 <use images/Fig0_Pt5_Step4.jpg>
-Package pdftex.def Info: images/Fig0_Pt5_Step4.jpg used on input line 826.
+Package pdftex.def Info: images/Fig0_Pt5_Step4.jpg used on input line 828.
 (pdftex.def)             Requested size: 289.47638pt x 177.86134pt.
  [27
 
@@ -1507,7 +1507,7 @@ Package pdftex.def Info: images/Fig0_Pt5_Step4.jpg used on input line 826.
 File: images/Fig1_Pt5_Step5.jpg Graphic file (type jpg)
 
 <use images/Fig1_Pt5_Step5.jpg>
-Package pdftex.def Info: images/Fig1_Pt5_Step5.jpg used on input line 853.
+Package pdftex.def Info: images/Fig1_Pt5_Step5.jpg used on input line 855.
 (pdftex.def)             Requested size: 291.28308pt x 186.89494pt.
  [29
 
@@ -1516,11 +1516,11 @@ Package pdftex.def Info: images/Fig1_Pt5_Step5.jpg used on input line 853.
 File: images/CARMA(2,1)_Recovery.jpg Graphic file (type jpg)
 
 <use images/CARMA(2,1)_Recovery.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_Recovery.jpg used on input line 860.
+Package pdftex.def Info: images/CARMA(2,1)_Recovery.jpg used on input line 862.
 
 (pdftex.def)             Requested size: 261.36522pt x 214.39175pt.
 
-Overfull \vbox (8.47446pt too high) detected at line 860
+Overfull \vbox (8.47446pt too high) detected at line 862
  []
 
 [30
@@ -1530,10 +1530,10 @@ Overfull \vbox (8.47446pt too high) detected at line 860
 File: images/CARMA(2,1)_GF.jpg Graphic file (type jpg)
 
 <use images/CARMA(2,1)_GF.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_GF.jpg used on input line 882.
+Package pdftex.def Info: images/CARMA(2,1)_GF.jpg used on input line 884.
 (pdftex.def)             Requested size: 250.04341pt x 161.5767pt.
 
-Overfull \vbox (6.61511pt too high) detected at line 882
+Overfull \vbox (6.61511pt too high) detected at line 884
  []
 
 [31
@@ -1543,7 +1543,7 @@ Overfull \vbox (6.61511pt too high) detected at line 882
 File: images/Zw229-15_Crop.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_Crop.jpg>
-Package pdftex.def Info: images/Zw229-15_Crop.jpg used on input line 911.
+Package pdftex.def Info: images/Zw229-15_Crop.jpg used on input line 913.
 (pdftex.def)             Requested size: 180.45253pt x 124.79895pt.
  [32
 
@@ -1552,7 +1552,7 @@ Package pdftex.def Info: images/Zw229-15_Crop.jpg used on input line 911.
 File: images/Zw229-15_LC.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_LC.jpg>
-Package pdftex.def Info: images/Zw229-15_LC.jpg used on input line 918.
+Package pdftex.def Info: images/Zw229-15_LC.jpg used on input line 920.
 (pdftex.def)             Requested size: 308.87476pt x 187.84335pt.
  [33
 
@@ -1561,7 +1561,7 @@ Package pdftex.def Info: images/Zw229-15_LC.jpg used on input line 918.
 File: images/Zw229-15_DampedHO.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_DampedHO.jpg>
-Package pdftex.def Info: images/Zw229-15_DampedHO.jpg used on input line 936.
+Package pdftex.def Info: images/Zw229-15_DampedHO.jpg used on input line 938.
 (pdftex.def)             Requested size: 300.0013pt x 183.21088pt.
  [34
 
@@ -1570,7 +1570,7 @@ Package pdftex.def Info: images/Zw229-15_DampedHO.jpg used on input line 936.
 File: images/Zw229-15_GFunc.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_GFunc.jpg>
-Package pdftex.def Info: images/Zw229-15_GFunc.jpg used on input line 943.
+Package pdftex.def Info: images/Zw229-15_GFunc.jpg used on input line 945.
 (pdftex.def)             Requested size: 304.17705pt x 183.21088pt.
  [35
 
@@ -1579,7 +1579,7 @@ Package pdftex.def Info: images/Zw229-15_GFunc.jpg used on input line 943.
 File: images/Zw229-15_distPSD.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_distPSD.jpg>
-Package pdftex.def Info: images/Zw229-15_distPSD.jpg used on input line 950.
+Package pdftex.def Info: images/Zw229-15_distPSD.jpg used on input line 952.
 (pdftex.def)             Requested size: 304.17705pt x 183.21088pt.
  [36
 
@@ -1588,10 +1588,10 @@ Package pdftex.def Info: images/Zw229-15_distPSD.jpg used on input line 950.
 File: images/Zw229-15_Times.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_Times.jpg>
-Package pdftex.def Info: images/Zw229-15_Times.jpg used on input line 957.
+Package pdftex.def Info: images/Zw229-15_Times.jpg used on input line 959.
 (pdftex.def)             Requested size: 189.88374pt x 194.96202pt.
 
-Overfull \vbox (7.04472pt too high) detected at line 957
+Overfull \vbox (7.04472pt too high) detected at line 959
  []
 
 [37
@@ -1601,7 +1601,7 @@ Overfull \vbox (7.04472pt too high) detected at line 957
 File: images/Zw229-15_mockLC.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_mockLC.jpg>
-Package pdftex.def Info: images/Zw229-15_mockLC.jpg used on input line 964.
+Package pdftex.def Info: images/Zw229-15_mockLC.jpg used on input line 966.
 (pdftex.def)             Requested size: 304.17705pt x 183.14563pt.
  [38
 
@@ -1610,7 +1610,7 @@ Package pdftex.def Info: images/Zw229-15_mockLC.jpg used on input line 964.
 File: images/K2Campaigns.jpg Graphic file (type jpg)
 
 <use images/K2Campaigns.jpg>
-Package pdftex.def Info: images/K2Campaigns.jpg used on input line 1024.
+Package pdftex.def Info: images/K2Campaigns.jpg used on input line 1026.
 (pdftex.def)             Requested size: 330.48534pt x 127.63898pt.
  [39
 
@@ -1619,7 +1619,7 @@ Package pdftex.def Info: images/K2Campaigns.jpg used on input line 1024.
 File: images/PowerOfSDSSK2.jpg Graphic file (type jpg)
 
 <use images/PowerOfSDSSK2.jpg>
-Package pdftex.def Info: images/PowerOfSDSSK2.jpg used on input line 1031.
+Package pdftex.def Info: images/PowerOfSDSSK2.jpg used on input line 1033.
 (pdftex.def)             Requested size: 212.75728pt x 144.94998pt.
  [40
 
@@ -1627,7 +1627,7 @@ Package pdftex.def Info: images/PowerOfSDSSK2.jpg used on input line 1031.
 <images/LC_2.jpg, id=1389, 1003.75pt x 649.42625pt>
 File: images/LC_2.jpg Graphic file (type jpg)
  <use images/LC_2.jpg>
-Package pdftex.def Info: images/LC_2.jpg used on input line 1043.
+Package pdftex.def Info: images/LC_2.jpg used on input line 1045.
 (pdftex.def)             Requested size: 200.74644pt x 129.88295pt.
 
 [41
@@ -1637,10 +1637,10 @@ Package pdftex.def Info: images/LC_2.jpg used on input line 1043.
 File: images/beamedLC.jpg Graphic file (type jpg)
 
 <use images/beamedLC.jpg>
-Package pdftex.def Info: images/beamedLC.jpg used on input line 1067.
+Package pdftex.def Info: images/beamedLC.jpg used on input line 1069.
 (pdftex.def)             Requested size: 220.18546pt x 134.25943pt.
 
-Overfull \vbox (17.51282pt too high) detected at line 1067
+Overfull \vbox (17.51282pt too high) detected at line 1069
  []
 
 [42
@@ -1650,10 +1650,10 @@ Overfull \vbox (17.51282pt too high) detected at line 1067
 File: images/beamingFactor.jpg Graphic file (type jpg)
 
 <use images/beamingFactor.jpg>
-Package pdftex.def Info: images/beamingFactor.jpg used on input line 1091.
+Package pdftex.def Info: images/beamingFactor.jpg used on input line 1093.
 (pdftex.def)             Requested size: 207.03557pt x 134.25943pt.
 
-Overfull \vbox (17.51282pt too high) detected at line 1091
+Overfull \vbox (17.51282pt too high) detected at line 1093
  []
 
 [43
@@ -1663,7 +1663,7 @@ Overfull \vbox (17.51282pt too high) detected at line 1091
 File: images/beamedPSD.jpg Graphic file (type jpg)
 
 <use images/beamedPSD.jpg>
-Package pdftex.def Info: images/beamedPSD.jpg used on input line 1102.
+Package pdftex.def Info: images/beamedPSD.jpg used on input line 1104.
 (pdftex.def)             Requested size: 207.08575pt x 134.46019pt.
  [44
 
@@ -1672,10 +1672,10 @@ Package pdftex.def Info: images/beamedPSD.jpg used on input line 1102.
 File: images/Hogg_lc.jpg Graphic file (type jpg)
 
 <use images/Hogg_lc.jpg>
-Package pdftex.def Info: images/Hogg_lc.jpg used on input line 1131.
+Package pdftex.def Info: images/Hogg_lc.jpg used on input line 1133.
 (pdftex.def)             Requested size: 146.79808pt x 110.66316pt.
 
-Overfull \hbox (9.83234pt too wide) in paragraph at lines 1131--1131
+Overfull \hbox (9.83234pt too wide) in paragraph at lines 1133--1133
  [] 
  []
 
@@ -1686,7 +1686,7 @@ Overfull \hbox (9.83234pt too wide) in paragraph at lines 1131--1131
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 1556.
+(hyperref)                removing `\translate ' on input line 1558.
 
 (./talk.bbl
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
@@ -1709,11 +1709,11 @@ LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 \tf@snm=\write8
 \openout8 = `talk.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2133.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2133.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2135.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2135.
  (./talk.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2133.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2135.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2135.
 
 Package rerunfilecheck Info: File `talk.out' has not changed.
 (rerunfilecheck)             Checksum: 4B822E188F9EE939D093976355632FFD;1205.
@@ -1725,7 +1725,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2133.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2135.
  ) 
 Here is how much of TeX's memory you used:
  20860 strings out of 493304
@@ -1754,7 +1754,7 @@ ia.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr
 texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on talk.pdf (49 pages, 30135317 bytes).
+Output written on talk.pdf (49 pages, 30136909 bytes).
 PDF statistics:
  1778 PDF objects out of 2073 (max. 8388607)
  1635 compressed objects within 17 object streams
