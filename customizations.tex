@@ -1,0 +1,278 @@
+% Spacings between the chapter top and to the text
+%\newcommand{\chaptertopspacing}{10}
+%\newcommand{\chaptertotextspacing}{-10}
+%\newcommand{\chaptertopspacingSTAR}{10}
+%\newcommand{\chaptertotextspacingSTAR}{-10}
+
+% Convenience functions
+% Paper1
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+% Paper2
+\newcommand{\Kepler}{Kepler~}
+%\newcommand{\KTwo}{K2~}
+\newcommand{\MAST}{\textit{MAST\_DR23}}
+\newcommand{\Carini}{\textit{CW2015}}
+% Paper3
+\DeclareMathOperator{\vect}{vec}
+\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
+\newcommand{\mathbfit}[1]{\textbf{\textit{#1}}}
+\newcommand{\textbfss}[1]{\textbf{\textsf{#1}}}
+\newcommand{\mathbfss}[1]{\textbf{\textsf{#1}}}
+
+\DeclareSymbolFont{UPM}{U}{eur}{m}{n}
+\SetSymbolFont{UPM}{bold}{U}{eur}{b}{n}
+\DeclareSymbolFont{AMSa}{U}{msa}{m}{n}
+\DeclareMathSymbol{\upi}{0}{UPM}{"19}
+\DeclareMathSymbol{\umu}{0}{UPM}{"16}
+\DeclareMathSymbol{\upartial}{0}{UPM}{"40}
+\DeclareMathSymbol{\leqslant}{3}{AMSa}{"36}
+\DeclareMathSymbol{\geqslant}{3}{AMSa}{"3E}
+\DeclareMathSymbol{\la}{3}{AMSa}{46}
+\DeclareMathSymbol{\ga}{3}{AMSa}{38}
+
+\let\oldle=\le     \let\oldleq=\leq
+\let\oldge=\ge     \let\oldgeq=\geq
+\let\leq=\leqslant \let\le=\leqslant
+\let\geq=\geqslant \let\ge=\geqslant
+
+\newcommand\getsto{\mathrel{\mathchoice {\vcenter{\offinterlineskip
+\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr\gets\cr\to\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr\gets
+\cr\to\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr\gets
+\cr\to\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+\gets\cr\to\cr}}}}}
+
+\newcommand\cor{\mathrel{\mathchoice {\hbox{$\widehat=$}}{\hbox{$\widehat=$}}
+{\hbox{$\reset@font\scriptstyle\hat=$}}
+{\hbox{$\reset@font\scriptscriptstyle\hat=$}}}}
+
+\newcommand\lid{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr<\cr
+\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr<\cr
+\noalign{\vskip1pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr
+\noalign{\vskip0.9pt}=\cr}}}}}
+
+\newcommand\gid{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr>\cr
+\noalign{\vskip1.2pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr>\cr
+\noalign{\vskip1pt}=\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr
+\noalign{\vskip0.9pt}=\cr}}}}}
+
+\newcommand\sol{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr\sim\cr<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr\sim\cr
+<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr\sim\cr
+<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+\sim\cr<\cr}}}}}
+
+\newcommand\sog{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr\sim\cr>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr\sim\cr
+>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+\sim\cr>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+\sim\cr>\cr}}}}}
+
+\newcommand\lse{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+<\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+<\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr\simeq\cr}}}}}
+
+\newcommand\gse{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+>\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+>\cr\simeq\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr\simeq\cr}}}}}
+
+\newcommand\grole{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\noalign{\vskip-1.5pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+>\cr\noalign{\vskip-1.5pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+>\cr\noalign{\vskip-1pt}<\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr\noalign{\vskip-0.5pt}<\cr}}}}}
+
+\newcommand\leogr{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\noalign{\vskip-1.5pt}>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+<\cr\noalign{\vskip-1.5pt}>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+<\cr\noalign{\vskip-1pt}>\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr\noalign{\vskip-0.5pt}>\cr}}}}}
+
+\newcommand\loa{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr<\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+<\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+<\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+<\cr\approx\cr}}}}}
+
+\newcommand\goa{\mathrel{\mathchoice {\vcenter{\offinterlineskip\halign{\hfil
+$\reset@font\displaystyle##$\hfil\cr>\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\textstyle##$\hfil\cr
+>\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptstyle##$\hfil\cr
+>\cr\approx\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\reset@font\scriptscriptstyle##$\hfil\cr
+>\cr\approx\cr}}}}}
+
+\newcommand{\romn}[1] {{\mathrm #1}}
+
+  %
+  \def\mathch{\protect\p@mathch}
+  \def\p@mathch#1#2{%
+    \begingroup
+    \let\@nomath\@gobble \mathversion{#1}%
+    \math@atom{#2}{%
+    \mathchoice%
+      {\hbox{$\m@th\displaystyle#2$}}%
+      {\hbox{$\m@th\textstyle#2$}}%
+      {\hbox{$\m@th\scriptstyle#2$}}%
+      {\hbox{$\m@th\scriptscriptstyle#2$}}}%
+  \endgroup}
+  %
+  \def\bmath{\protect\p@boldm}
+  \def\p@boldm#1{\mathch{bold}{#1}}
+%
+
+  \let\mit=\mathnormal
+  %
+  % The following is needed because NFSS release 2
+  % does not define the bold
+  % math symbol font to be available!
+  %
+  \SetSymbolFont{symbols}{bold}{OMS}{cmsy}{b}{n}
+  %
+  \DeclareSymbolFont{bmisymbols}{OML}{cmm}{b}{it}
+  \DeclareMathSymbol{\balpha}{0}{bmisymbols}{"0B}
+  \DeclareMathSymbol{\bbeta}{0}{bmisymbols}{"0C}
+  \DeclareMathSymbol{\bgamma}{0}{bmisymbols}{"0D}
+  \DeclareMathSymbol{\bdelta}{0}{bmisymbols}{"0E}
+  \DeclareMathSymbol{\bepsilon}{0}{bmisymbols}{"0F}
+  \DeclareMathSymbol{\bzeta}{0}{bmisymbols}{"10}
+  \DeclareMathSymbol{\boldeta}{0}{bmisymbols}{"11}
+  \DeclareMathSymbol{\btheta}{0}{bmisymbols}{"12}
+  \DeclareMathSymbol{\biota}{0}{bmisymbols}{"13}
+  \DeclareMathSymbol{\bkappa}{0}{bmisymbols}{"14}
+  \DeclareMathSymbol{\blambda}{0}{bmisymbols}{"15}
+  \DeclareMathSymbol{\bmu}{0}{bmisymbols}{"16}
+  \DeclareMathSymbol{\bnu}{0}{bmisymbols}{"17}
+  \DeclareMathSymbol{\bxi}{0}{bmisymbols}{"18}
+  \DeclareMathSymbol{\bpi}{0}{bmisymbols}{"19}
+  \DeclareMathSymbol{\brho}{0}{bmisymbols}{"1A}
+  \DeclareMathSymbol{\bsigma}{0}{bmisymbols}{"1B}
+  \DeclareMathSymbol{\btau}{0}{bmisymbols}{"1C}
+  \DeclareMathSymbol{\bupsilon}{0}{bmisymbols}{"1D}
+  \DeclareMathSymbol{\bphi}{0}{bmisymbols}{"1E}
+  \DeclareMathSymbol{\bchi}{0}{bmisymbols}{"1F}
+  \DeclareMathSymbol{\bpsi}{0}{bmisymbols}{"20}
+  \DeclareMathSymbol{\bomega}{0}{bmisymbols}{"21}
+  \DeclareMathSymbol{\bvarepsilon}{0}{bmisymbols}{"22}
+  \DeclareMathSymbol{\bvartheta}{0}{bmisymbols}{"23}
+  \DeclareMathSymbol{\bvarpi}{0}{bmisymbols}{"24}
+  \DeclareMathSymbol{\bvarrho}{0}{bmisymbols}{"25}
+  \DeclareMathSymbol{\bvarsigma}{0}{bmisymbols}{"26}
+  \DeclareMathSymbol{\bvarphi}{0}{bmisymbols}{"27}
+
+%\newcommand{\Kepler}{\textit{Kepler~}}
+
+% -----------------------------------------------------------------------------
+% Customize fncychap settings
+%\iffinal{}{
+%	\ChRuleWidth{1.5pt}
+%	\ChTitleLowerCase
+%	\ChTitleVar{\Huge \sc}
+%	}
+
+% -----------------------------------------------------------------------------
+% tighten the fncychap spacings, TeX code taken from
+% http://tex.stackexchange.com/questions/13357/fncychap-package-reduce-vertical-gap-space-between-header-and-chapter-heading
+
+%\makeatletter
+%\renewcommand*{\@makechapterhead}[1]{%
+%  \iffinal{\setstretch{\@ssp}}{}
+%  
+%  \vspace*{\chaptertopspacing\p@}%
+%  {\parindent \z@ \raggedright \normalfont \center
+%    \ifnum \c@secnumdepth >\m@ne
+%      \if@mainmatter%%%%% Fix for frontmatter, mainmatter, and backmatter 040920
+%        \DOCH
+%      \fi
+%    \fi
+%    \interlinepenalty\@M
+%    \if@mainmatter%%%%% Fix for frontmatter, mainmatter, and backmatter 060424
+%      \DOTI{#1}%
+%    \else%
+%      \DOTIS{#1}%
+%    \fi
+%    \vspace*{\chaptertotextspacing\p@}
+%  }
+%  \iffinal{\setstretch{\@dsp}}{}  
+%}
+%
+%
+% \renewcommand*{\@makeschapterhead}[1]{%
+%  \vspace*{\chaptertopspacingSTAR\p@}%
+%  {\parindent \z@ \raggedright \center
+%    \normalfont
+%    \interlinepenalty\@M
+%    \DOTIS{#1}
+%    \vskip \chaptertotextspacingSTAR\p@
+%  }}
+% 
+%\makeatother
+%
+%
+%% -----------------------------------------------------------------------------
+%% redefine abstract from drexel-thesis since the spacing is now wrong
+%\makeatletter
+%\renewenvironment{abstract}{%
+%  \listed@schapter{\abstractname}%
+%  \blanklines{-0}%
+%  \begin{center}
+%      \setstretch{\@ssp}%
+%      \@DUT@title\\
+%      \@DUT@author\\
+%      \ifdaring{%
+%        \ifnum\c@@DUT@advisors=\@ne%
+%        Advisor:
+%        \else%
+%        Advisors:
+%        \fi}{}
+%      \@DUT@advisor\\
+%  \end{center}
+%  \blanklines{4}%
+%  \setstretch{\@dsp}%
+%  \@nobreaktrue
+%  \@afterindentfalse
+%  \@afterheading
+%}{%
+%  \par\setstretch{\@ssp}%
+%}
+%\makeatother

@@ -1,0 +1,19 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction to AGN Variability}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{The Problem}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Studying variability}{6}{0}{1}
+\beamer@sectionintoc {2}{Kepler}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Kepler}{12}{0}{2}
+\beamer@sectionintoc {3}{Structure Function Approach}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Structure Functions}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Kepler Systematics}{17}{0}{3}
+\beamer@sectionintoc {4}{Exact MLE}{22}{0}{4}
+\beamer@subsectionintoc {4}{1}{Generalized Stochastic Processes}{22}{0}{4}
+\beamer@sectionintoc {5}{Modelling AGN Variability as a C-ARMA Process}{23}{0}{5}
+\beamer@subsectionintoc {5}{1}{Introduction}{23}{0}{5}
+\beamer@subsectionintoc {5}{2}{State-Space Representation}{26}{0}{5}
+\beamer@subsectionintoc {5}{3}{Model Inferencing}{28}{0}{5}
+\beamer@subsectionintoc {5}{4}{C-ARMA Analysis of Zw 229-15}{32}{0}{5}
+\beamer@sectionintoc {6}{WIP \& Summary}{39}{0}{6}
+\beamer@subsectionintoc {6}{1}{Work in Progress}{39}{0}{6}
+\beamer@subsectionintoc {6}{2}{Summary}{46}{0}{6}

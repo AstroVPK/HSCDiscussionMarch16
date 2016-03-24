@@ -1,0 +1,154 @@
+ \newcommand{\noop}[1]{}
+\begin{thebibliography}{29}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Armitage} \& {Reynolds}(2003)}]{ArmitageReynolds03}
+{Armitage}, P.~J., \& {Reynolds}, C.~S. 2003,
+  \href{http://dx.doi.org/10.1046/j.1365-8711.2003.06491.x}{\mnras, 341, 1041}
+
+\bibitem[{{Barth} {et~al.}(2011){Barth}, {Nguyen}, {Malkan}, {Filippenko},
+  {Li}, {Gorjian}, {Joner}, {Bennert}, {Botyanszki}, {Cenko}, {Childress},
+  {Choi}, {Comerford}, {Cucciara}, {da Silva}, {Duch{\^e}ne}, {Fumagalli},
+  {Ganeshalingam}, {Gates}, {Gerke}, {Griffith}, {Harris}, {Hintz}, {Hsiao},
+  {Kandrashoff}, {Keel}, {Kirkman}, {Kleiser}, {Laney}, {Lee}, {Lopez}, {Lowe},
+  {Moody}, {Morton}, {Nierenberg}, {Nugent}, {Pancoast}, {Rex}, {Rich},
+  {Silverman}, {Smith}, {Sonnenfeld}, {Suzuki}, {Tytler}, {Walsh}, {Woo},
+  {Yang}, \& {Zeisse}}]{Barth11}
+{Barth}, A.~J., {Nguyen}, M.~L., {Malkan}, M.~A., {et~al.} 2011,
+  \href{http://dx.doi.org/10.1088/0004-637X/732/2/121}{\apj, 732, 121}
+
+\bibitem[{{Belloni} \& {Stella}(2014)}]{BelloniAccretion}
+{Belloni}, T.~M., \& {Stella}, L. 2014, in Space Sciences Series of ISSI,
+  Vol.~49, The Physics of Accretion onto Black Holes, ed. F.~{Maurizio},
+  T.~{Belloni}, P.~{Casella}, M.~{Gilfanov}, P.~{Jonker}, \& A.~{King}
+  (Springer), 43
+
+\bibitem[{{Brockwell}(2014)}]{Brockwell14}
+{Brockwell}, P. 2014, \href{http://dx.doi.org/10.1007/s10463-014-0468-7}{Ann.
+  Inst. Stat. Math., 66, 647}
+
+\bibitem[{{Carini} \& {Ryle}(2012)}]{Carini12}
+{Carini}, M.~T., \& {Ryle}, W.~T. 2012,
+  \href{http://dx.doi.org/10.1088/0004-637X/749/1/70}{\apj, 749, 70}
+
+\bibitem[{{Davis}(2002)}]{Davis}
+{Davis}, J.~H. 2002, Foundations of Deterministic and Stochastic Control
+  (Birkh\"{a}user)
+
+\bibitem[{{D'Orazio} {et~al.}(2015){D'Orazio}, {Haiman}, \&
+  {Schiminovich}}]{binarySMBHNature15}
+{D'Orazio}, D.~J., {Haiman}, Z., \& {Schiminovich}, D. 2015,
+  \href{http://dx.doi.org/10.1038/nature15262}{\nat, 525, 351}
+
+\bibitem[{{Edelson} \& {Malkan}(2012)}]{Edelson12}
+{Edelson}, R., \& {Malkan}, M. 2012,
+  \href{http://dx.doi.org/10.1088/0004-637X/751/1/52}{\apj, 751, 52}
+
+\bibitem[{{Emmanoulopoulos} {et~al.}(2010){Emmanoulopoulos}, {McHardy}, \&
+  {Uttley}}]{Emm10}
+{Emmanoulopoulos}, D., {McHardy}, I.~M., \& {Uttley}, P. 2010,
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2010.16328.x}{\mnras, 404, 931}
+
+\bibitem[{{Hawley} \& {Krolik}(2002)}]{HawleyKrolik02}
+{Hawley}, J.~F., \& {Krolik}, J.~H. 2002,
+  \href{http://dx.doi.org/10.1086/338059}{\apj, 566, 164}
+
+\bibitem[{{Janiuk} \& {Czerny}(2007)}]{JaniukCzerny07}
+{Janiuk}, A., \& {Czerny}, B. 2007,
+  \href{http://dx.doi.org/10.1051/0004-6361:20066133}{\aap, 466, 793}
+
+\bibitem[{{Kasliwal} {et~al.}(2015{\natexlab{a}}){Kasliwal}, {Vogeley}, \&
+  {Richards}}]{Kasliwal15}
+{Kasliwal}, V.~P., {Vogeley}, M.~S., \& {Richards}, G.~T. 2015{\natexlab{a}},
+  \href{http://dx.doi.org/10.1093/mnras/stv1230}{\mnras, 451, 4328}
+
+\bibitem[{{Kasliwal} {et~al.}(2015{\natexlab{b}}){Kasliwal}, {Vogeley},
+  {Richards}, {Williams}, \& {Carini}}]{Kasliwal15b}
+{Kasliwal}, V.~P., {Vogeley}, M.~S., {Richards}, G.~T., {Williams}, J., \&
+  {Carini}, M.~T. 2015{\natexlab{b}},
+  \href{http://dx.doi.org/10.1093/mnras/stv1797}{\mnras, 453, 2075}
+
+\bibitem[{{Kelly} {et~al.}(2009){Kelly}, {Bechtold}, \&
+  {Siemiginowska}}]{Kelly09}
+{Kelly}, B.~C., {Bechtold}, J., \& {Siemiginowska}, A. 2009,
+  \href{http://dx.doi.org/10.1088/0004-637X/698/1/895}{\apj, 698, 895}
+
+\bibitem[{{Kelly} {et~al.}(2014){Kelly}, {Becker}, {Sobolewska},
+  {Siemiginowska}, \& {Uttley}}]{Kelly14}
+{Kelly}, B.~C., {Becker}, A.~C., {Sobolewska}, M., {Siemiginowska}, A., \&
+  {Uttley}, P. 2014, \href{http://dx.doi.org/10.1088/0004-637X/788/1/33}{\apj,
+  788, 33}
+
+\bibitem[{{Lyubarskii}(1997)}]{Lyubarskii97}
+{Lyubarskii}, Y.~E. 1997, \mnras, 292, 679
+
+\bibitem[{{McHardy} {et~al.}(2004){McHardy}, {Papadakis}, {Uttley}, {Page}, \&
+  {Mason}}]{McHardy04}
+{McHardy}, I.~M., {Papadakis}, I.~E., {Uttley}, P., {Page}, M.~J., \& {Mason},
+  K.~O. 2004, \href{http://dx.doi.org/10.1111/j.1365-2966.2004.07376.x}{\mnras,
+  348, 783}
+
+\bibitem[{{Mushotzky} {et~al.}(2011){Mushotzky}, {Edelson}, {Baumgartner}, \&
+  {Gandhi}}]{Mushotzky11}
+{Mushotzky}, R.~F., {Edelson}, R., {Baumgartner}, W., \& {Gandhi}, P. 2011,
+  \href{http://dx.doi.org/10.1088/2041-8205/743/1/L12}{\apjl, 743, L12}
+
+\bibitem[{{Nowak} \& {Wagoner}(1995)}]{NowakWagoner95}
+{Nowak}, M.~A., \& {Wagoner}, R.~V. 1995, \mnras, 274, 37
+
+\bibitem[{{Peterson} {et~al.}(1999){Peterson}, {Barth}, {Berlind}, {Bertram},
+  {Bischoff}, {Bochkarev}, {Burenkov}, {Cheng}, {Dietrich}, {Filippenko},
+  {Giannuzzo}, {Ho}, {Huchra}, {Hunley}, {Kaspi}, {Kollatschny}, {Leonard},
+  {Malkov}, {Matheson}, {Mignoli}, {Nelson}, {Papaderos}, {Peters}, {Pogge},
+  {Pronik}, {Sergeev}, {Sergeeva}, {Shapovalova}, {Stirpe}, {Tokarz}, {Wagner},
+  {Wanders}, {Wei}, {Wilkes}, {Wu}, {Xue}, \& {Zou}}]{Peterson99}
+{Peterson}, B.~M., {Barth}, A.~J., {Berlind}, P., {et~al.} 1999,
+  \href{http://dx.doi.org/10.1086/306604}{\apj, 510, 659}
+
+\bibitem[{{Peterson}(1997)}]{Peterson}
+{Peterson}, Bradley, M. 1997, An Introduction to Active Galactic Nuclei
+  (Cambridge University Press)
+
+\bibitem[{{Poutanen} \& {Fabian}(1999)}]{PoutanenFabian99}
+{Poutanen}, J., \& {Fabian}, A.~C. 1999,
+  \href{http://dx.doi.org/10.1046/j.1365-8711.1999.02735.x}{\mnras, 306, L31}
+
+\bibitem[{{Sesar} {et~al.}(2007){Sesar}, {Ivezi{\'c}}, {Lupton}, {Juri{\'c}},
+  {Gunn}, {Knapp}, {DeLee}, {Smith}, {Miknaitis}, {Lin}, {Tucker}, {Doi},
+  {Tanaka}, {Fukugita}, {Holtzman}, {Kent}, {Yanny}, {Schlegel}, {Finkbeiner},
+  {Padmanabhan}, {Rockosi}, {Bond}, {Lee}, {Stoughton}, {Jester}, {Harris},
+  {Harding}, {Brinkmann}, {Schneider}, {York}, {Richmond}, \& {Vanden
+  Berk}}]{Sesar07}
+{Sesar}, B., {Ivezi{\'c}}, {\v Z}., {Lupton}, R.~H., {et~al.} 2007,
+  \href{http://dx.doi.org/10.1086/521819}{\aj, 134, 2236}
+
+\bibitem[{{Shaya} {et~al.}(2015){Shaya}, {Olling}, \& {Mushotzky}}]{Shaya15}
+{Shaya}, E.~J., {Olling}, R., \& {Mushotzky}, R. 2015, ArXiv e-prints,
+  \href{http://arxiv.org/abs/1507.08312}{{\sffamily arXiv:1507.08312
+  [astro-ph.HE]}}
+
+\bibitem[{{Uttley} \& {Casella}(2014)}]{UttleyAccretion}
+{Uttley}, P., \& {Casella}, P. 2014, in Space Sciences Series of ISSI, Vol.~49,
+  The Physics of Accretion onto Black Holes, ed. F.~{Maurizio}, T.~{Belloni},
+  P.~{Casella}, M.~{Gilfanov}, P.~{Jonker}, \& A.~{King} (Springer), 453
+
+\bibitem[{{Uttley} {et~al.}(2005){Uttley}, {McHardy}, \& {Vaughan}}]{UMV05}
+{Uttley}, P., {McHardy}, I.~M., \& {Vaughan}, S. 2005,
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2005.08886.x}{\mnras, 359, 345}
+
+\bibitem[{{Van Cleve} \& {Caldwell}(2009)}]{KIH}
+{Van Cleve}, J.~E., \& {Caldwell}, D.~A. 2009, Kepler Instrument Handbook,
+  Tech. Rep. KSCI-19033, National Aeronautics and Space Administration, NASA
+  Ames Research Center, Moffett Field, California
+
+\bibitem[{{Wehrle} {et~al.}(2013){Wehrle}, {Wiita}, {Unwin}, {Di Lorenzo},
+  {Revalski}, {Silano}, \& {Sprague}}]{Wehrle13}
+{Wehrle}, A.~E., {Wiita}, P.~J., {Unwin}, S.~C., {et~al.} 2013,
+  \href{http://dx.doi.org/10.1088/0004-637X/773/2/89}{\apj, 773, 89}
+
+\bibitem[{{Williams} \& {Carini}(2015)}]{CariniWilliamsAAS}
+{Williams}, J., \& {Carini}, M.~T. 2015, in American Astronomical Society
+  Meeting Abstracts, Vol. 225, American Astronomical Society Meeting Abstracts,
+  \#144.56
+
+\end{thebibliography}

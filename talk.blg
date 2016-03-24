@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: talk.aux
+The style file: yahapj.bst
+Database file #1: ../TeX/bibliography/allrefs.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 29 entries,
+            3201 wiz_defined-function locations,
+            896 strings with 12346 characters,
+and the built_in function-call counts, 15825 in all, are:
+= -- 1246
+> -- 1139
+< -- 19
++ -- 433
+- -- 398
+* -- 1375
+:= -- 2825
+add.period$ -- 29
+call.type$ -- 29
+change.case$ -- 189
+chr.to.int$ -- 28
+cite$ -- 29
+duplicate$ -- 784
+empty$ -- 1034
+format.name$ -- 454
+if$ -- 3190
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 25
+newline$ -- 92
+num.names$ -- 118
+pop$ -- 297
+preamble$ -- 2
+purify$ -- 189
+quote$ -- 0
+skip$ -- 493
+stack$ -- 0
+substring$ -- 683
+swap$ -- 29
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 255
+warning$ -- 0
+while$ -- 136
+width$ -- 0
+write$ -- 298

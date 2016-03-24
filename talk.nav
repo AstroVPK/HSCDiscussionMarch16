@@ -1,0 +1,142 @@
+\beamer@endinputifotherversion {3.24pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\sectionentry {1}{Introduction to AGN Variability}{2}{Introduction to AGN Variability}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{2}{The Problem}}\headcommand {\beamer@subsectionpages {2}{1}}
+\headcommand {\slideentry {1}{1}{1}{2/2}{The Problem}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {1}{1}{2}{3/3}{The Problem}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{1}{3}{4/4}{The Problem}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{1}{4}{5/5}{The Problem}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{6}{Studying variability}}\headcommand {\beamer@subsectionpages {2}{5}}
+\headcommand {\slideentry {1}{2}{1}{6/6}{Studying variability}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{2}{2}{7/7}{Studying variability}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {1}{2}{3}{8/8}{Studying variability}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {1}{2}{4}{9/9}{Studying variability}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {1}{2}{5}{10/10}{Studying variability}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {1}{2}{6}{11/11}{Studying variability}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\sectionentry {2}{Kepler}{12}{Kepler}{0}}
+\headcommand {\beamer@sectionpages {2}{11}}
+\headcommand {\beamer@subsectionpages {6}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{12}{Kepler}}\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\slideentry {2}{1}{1}{12/12}{Kepler}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {2}{1}{2}{13/13}{Kepler}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{1}{3}{14/14}{Kepler}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\sectionentry {3}{Structure Function Approach}{15}{Structure Function Approach}{0}}
+\headcommand {\beamer@sectionpages {12}{14}}
+\headcommand {\beamer@subsectionpages {12}{14}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{15}{Structure Functions}}\headcommand {\beamer@subsectionpages {15}{14}}
+\headcommand {\slideentry {3}{1}{1}{15/15}{Structure Functions}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {3}{1}{2}{16/16}{Structure Functions}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{17}{Kepler Systematics}}\headcommand {\beamer@subsectionpages {15}{16}}
+\headcommand {\slideentry {3}{2}{1}{17/17}{Kepler Systematics}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {3}{2}{2}{18/18}{Kepler Systematics}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {3}{2}{3}{19/19}{Kepler Systematics}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {3}{2}{4}{20/20}{Kepler Systematics}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {3}{2}{5}{21/21}{Kepler Systematics}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\sectionentry {4}{Exact MLE}{22}{Exact MLE}{0}}
+\headcommand {\beamer@sectionpages {15}{21}}
+\headcommand {\beamer@subsectionpages {17}{21}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{22}{Generalized Stochastic Processes}}\headcommand {\beamer@subsectionpages {22}{21}}
+\headcommand {\slideentry {4}{1}{1}{22/22}{Generalized Stochastic Processes}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\sectionentry {5}{Modelling AGN Variability as a C-ARMA Process}{23}{Modelling AGN Variability as a C-ARMA Process}{0}}
+\headcommand {\beamer@sectionpages {22}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{23}{Introduction}}\headcommand {\beamer@subsectionpages {23}{22}}
+\headcommand {\slideentry {5}{1}{1}{23/23}{Introduction}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {5}{1}{2}{24/24}{Introduction}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {5}{1}{3}{25/25}{Introduction}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{26}{State-Space Representation}}\headcommand {\beamer@subsectionpages {23}{25}}
+\headcommand {\slideentry {5}{2}{1}{26/26}{State-Space Representation}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {5}{2}{2}{27/27}{State-Space Representation}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{28}{Model Inferencing}}\headcommand {\beamer@subsectionpages {26}{27}}
+\headcommand {\slideentry {5}{3}{1}{28/28}{Model Inferencing}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {5}{3}{2}{29/29}{Model Inferencing}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {5}{3}{3}{30/30}{Model Inferencing}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {5}{3}{4}{31/31}{Model Inferencing}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{32}{C-ARMA Analysis of Zw 229-15}}\headcommand {\beamer@subsectionpages {28}{31}}
+\headcommand {\slideentry {5}{4}{1}{32/32}{C-ARMA Analysis of Zw 229-15}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {5}{4}{2}{33/33}{C-ARMA Analysis of Zw 229-15}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {5}{4}{3}{34/34}{C-ARMA Analysis of Zw 229-15}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {5}{4}{4}{35/35}{C-ARMA Analysis of Zw 229-15}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {5}{4}{5}{36/36}{C-ARMA Analysis of Zw 229-15}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {5}{4}{6}{37/37}{C-ARMA Analysis of Zw 229-15}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {5}{4}{7}{38/38}{C-ARMA Analysis of Zw 229-15}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\sectionentry {6}{WIP \& Summary}{39}{WIP \& Summary}{0}}
+\headcommand {\beamer@sectionpages {23}{38}}
+\headcommand {\beamer@subsectionpages {32}{38}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{39}{Work in Progress}}\headcommand {\beamer@subsectionpages {39}{38}}
+\headcommand {\slideentry {6}{1}{1}{39/39}{Work in Progress}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {6}{1}{2}{40/40}{Work in Progress}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {6}{1}{3}{41/41}{Work in Progress}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {6}{1}{4}{42/42}{Work in Progress}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {6}{1}{5}{43/43}{Work in Progress}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {6}{1}{6}{44/44}{Work in Progress}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {6}{1}{7}{45/45}{Work in Progress}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{46}{Summary}}\headcommand {\beamer@subsectionpages {39}{45}}
+\headcommand {\slideentry {6}{2}{1}{46/46}{Summary}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\partentry {\translate {Appendix}}{1}}
+\headcommand {\beamer@partpages {1}{46}}
+\headcommand {\beamer@sectionpages {39}{46}}
+\headcommand {\beamer@subsectionpages {46}{46}}
+\headcommand {\beamer@appendixpages {47}}
+\headcommand {\sectionentry {7}{\translate {References}}{47}{\translate {References}}{1}}
+\headcommand {\beamer@sectionpages {47}{46}}
+\headcommand {\beamer@subsectionpages {47}{46}}
+\headcommand {\slideentry {7}{0}{2}{47/47}{}{1}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {7}{0}{2}{47/48}{}{1}}
+\headcommand {\beamer@framepages {47}{48}}
+\headcommand {\slideentry {7}{0}{2}{47/49}{}{1}}
+\headcommand {\beamer@framepages {47}{49}}
+\headcommand {\beamer@partpages {47}{49}}
+\headcommand {\beamer@subsectionpages {47}{49}}
+\headcommand {\beamer@sectionpages {47}{49}}
+\headcommand {\beamer@documentpages {49}}
+\headcommand {\def \inserttotalframenumber {49}}
