@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.18)  24 MAR 2016 07:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.18)  20 MAY 2016 08:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1566,15 +1566,15 @@ Package pdftex.def Info: images/Zw229-15_DampedHO.jpg used on input line 938.
  [34
 
  <./images/Zw229-15_DampedHO.jpg>]
-<images/Zw229-15_GFunc.jpg, id=1201, 4679.4825pt x 2818.53pt>
-File: images/Zw229-15_GFunc.jpg Graphic file (type jpg)
+<images/Zw229-15_GF.jpg, id=1201, 4715.6175pt x 2854.665pt>
+File: images/Zw229-15_GF.jpg Graphic file (type jpg)
 
-<use images/Zw229-15_GFunc.jpg>
-Package pdftex.def Info: images/Zw229-15_GFunc.jpg used on input line 945.
-(pdftex.def)             Requested size: 304.17705pt x 183.21088pt.
+<use images/Zw229-15_GF.jpg>
+Package pdftex.def Info: images/Zw229-15_GF.jpg used on input line 945.
+(pdftex.def)             Requested size: 306.5259pt x 185.55974pt.
  [35
 
- <./images/Zw229-15_GFunc.jpg>]
+ <./images/Zw229-15_GF.jpg>]
 <images/Zw229-15_distPSD.jpg, id=1232, 4679.4825pt x 2818.53pt>
 File: images/Zw229-15_distPSD.jpg Graphic file (type jpg)
 
@@ -1729,8 +1729,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2135.
  ) 
 Here is how much of TeX's memory you used:
  20860 strings out of 493304
- 381903 string characters out of 6139870
- 449771 words of memory out of 5000000
+ 381888 string characters out of 6139870
+ 449772 words of memory out of 5000000
  23502 multiletter control sequences out of 15000+600000
  132069 words of font info for 234 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1754,7 +1754,7 @@ ia.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr
 texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on talk.pdf (49 pages, 30136909 bytes).
+Output written on talk.pdf (49 pages, 30129662 bytes).
 PDF statistics:
  1778 PDF objects out of 2073 (max. 8388607)
  1635 compressed objects within 17 object streams
